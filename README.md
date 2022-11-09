@@ -1,5 +1,6 @@
-# Unity-Scene Assignment 1
+# Unity-Scene
 
+Assignment 1:
 This is a scene of a Japanese style garden. I included all kinds of object that could be found in a Japanese garden. This scene is entirely inspired from my own imagination. The main character of this scene is Unity-Chan.
 
 All objects includes:
@@ -24,3 +25,8 @@ All objects includes:
 19. Grass (Unity Asset Store)
 
 Video: https://youtu.be/vdCsutXw66c
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+Assignment 2
+- Added Point Light, Spotlight, and Emissive Material in addition to Directional Light.
+- Added day and night cycle
+- Added particle system, "fireflies"
