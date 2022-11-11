@@ -30,3 +30,5 @@ Assignment 2
 - Added Point Light, Spotlight, and Emissive Material in addition to Directional Light.
 - Added day and night cycle
 - Added particle system, "fireflies"
+
+Video: https://youtu.be/osTJvfzZIm0
